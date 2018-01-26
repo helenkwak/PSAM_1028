@@ -5,4 +5,4 @@
 #### Integrated Design
 #### Second Year
 
-<img src="https://media1.tenor.com/images/e98613a5e6dd5d3078249c9056a97e6b/tenor.gif?itemid=4819281" width="100">
+<img src="https://media1.tenor.com/images/e98613a5e6dd5d3078249c9056a97e6b/tenor.gif?itemid=4819281" width="500">
