@@ -1,4 +1,4 @@
-This is my code snippet:
+## This is my code snippet:
 
 ```ruby
 
@@ -32,6 +32,7 @@ monogram
 ```
 
 ## And then we did this:
+
 ```ruby
 
 var secondsInAMinute = 60
@@ -77,7 +78,8 @@ myAge * secondsInAYear
 
 ```
 
-##And then we learned true and false
+## And then we learned true and false
+
 ``` ruby
 
 var isAlive = true
@@ -97,7 +99,8 @@ false
 
 ```
 
-##Increment counting
+## Increment counting
+
 ```ruby
 
 //incrementing up or down
@@ -138,5 +141,28 @@ clouds--
 273726
 clouds--
 273725
+
+```
+
+## Null
+
+```ruby
+
+var clouds = 100
+undefined
+clouds = "Words"
+"Words"
+clouds
+"Words"
+clouds = null
+null
+clouds = null
+null
+clouds
+null
+clouds = 300
+300
+clouds
+300
 
 ```
