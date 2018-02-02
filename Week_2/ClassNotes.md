@@ -1,6 +1,6 @@
 This is my code snippet:
 
-```rudy
+```ruby
 
 var firstName = "Helen"
 undefined
@@ -32,7 +32,7 @@ monogram
 ```
 
 ## And then we did this:
-```rudy
+```ruby
 
 var secondsInAMinute = 60
 undefined
