@@ -97,3 +97,48 @@ isAlive
 false
 
 ```
+
+###Increment counting
+
+```ruby
+
+//incrementing up or down
+undefined
+var clouds = 100
+undefined
+clouds = clouds + 1
+101
+clouds = clouds + 1
+102
+clouds = clouds + 1
+103
+clouds = clouds + 1
+104
+clouds = clouds + 1
+105
+clouds = clouds + 1
+106
+clouds = clouds + 1
+107
+++clouds
+108
+**clouds
+VM1763:1 Uncaught SyntaxError: Unexpected token **
+clouds = clouds - 1
+107
+--clouds
+106
+clouds = clouds + 273618
+273724
+clouds++
+273724
++=clouds
+VM1941:1 Uncaught SyntaxError: Unexpected token +=
+clouds++
+273725
+clouds--
+273726
+clouds--
+273725
+
+```
