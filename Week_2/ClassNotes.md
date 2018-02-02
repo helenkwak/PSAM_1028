@@ -76,3 +76,24 @@ myAge * secondsInAYear
 630720000
 
 ```
+
+##And then we learned true and false
+
+``` ruby
+
+var isAlive = true
+undefined
+var isDead = true
+undefined
+var redEvilEyes = false
+undefined
+var ableToSpeak = true
+undefined
+isAlive
+true
+isAlive = false
+false
+isAlive
+false
+
+```
