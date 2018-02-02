@@ -1,5 +1,5 @@
 ### WEBSITES I USE TOO MUCH
-1. Amazon
+1. https://www.amazon.com
 2. Hulu
 3. mynewschool
 4. Canvas (_haha_)
