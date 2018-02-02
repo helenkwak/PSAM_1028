@@ -31,6 +31,7 @@ monogram
 
 ```
 
+## And then we did this:
 ```rudy
 
 var secondsInAMinute = 60
