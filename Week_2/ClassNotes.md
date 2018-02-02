@@ -78,7 +78,6 @@ myAge * secondsInAYear
 ```
 
 ##And then we learned true and false
-
 ``` ruby
 
 var isAlive = true
@@ -98,8 +97,7 @@ false
 
 ```
 
-###Increment counting
-
+##Increment counting
 ```ruby
 
 //incrementing up or down
