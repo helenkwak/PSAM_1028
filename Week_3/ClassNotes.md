@@ -41,7 +41,7 @@ undefined
 
 ```
 
-## adding to END of Array
+## .push - adding to END of Array
 
 ```ruby
 
@@ -85,7 +85,7 @@ Array(0)
 
 ```
 
-## adding to FRONT of array
+## .unshift - adding to FRONT of array
 
 ```ruby
 
@@ -103,7 +103,7 @@ colorArray
 
 ```
 
-## removing from the END of array
+## .pop - removing from the END of array
 
 ```ruby
 
@@ -132,3 +132,81 @@ colorArray
 (2) ["Grey", "Yellow"]
 
 ```
+
+## .concat 
+
+```ruby
+
+// Concatenate, or Attached, 2 Arrays
+var ledColorArray = ["Red","Green","Blue"]
+var grayscaleArray = ["White","Gray","Black"]
+var myLargeColorArray = ledColorArray.concat(grayscaleArray)
+undefined
+myLargeColorArray
+(6) ["Red", "Green", "Blue", "White", "Gray", "Black"]
+
+```
+
+## .indexOf - searching arrays with strings
+
+``` ruby
+
+var ledColorArray = ["Red","Green","Blue"]
+undefined
+ledColorArray.indexOf("Red")
+0
+ledColorArray.indexOf("red")
+-1
+ledColorArray.indexOf("Blue")
+2
+
+```
+
+## .join - combining sentences
+
+```ruby
+
+var ledColorArray = ["Red","Green","Blue"]
+undefined
+ledColorArray.join(" Is Nicer Than ")
+"Red Is Nicer Than Green Is Nicer Than Blue"
+ledColorArray.join(" ? ")
+"Red ? Green ? Blue"
+
+```
+
+## Math.random() - random numbers 
+
+```ruby
+
+Math.random() * 10
+(random number between 1 and 10)
+
+```
+
+## Math.floor(9.99999) - rounds numbers
+
+```ruby
+
+Math.floor(9.99999)
+9
+
+```
+
+## combining Math.floor and Math.random()
+
+```ruby
+
+Math.floor(Math.random()*10)
+3
+Math.floor(Math.random()*10)
+8
+Math.floor(Math.random()*10)
+4
+Math.floor(Math.random()*10)
+9
+Math.floor(Math.random()*10)
+9
+
+```
+
