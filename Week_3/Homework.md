@@ -1,17 +1,16 @@
-var FairyTaleLocationsArray = ["Oz","Kansas","Arendelle","Forest","Brooks","Castle","Mountain","New York","Village","Ocean"]
-
+var ftLocations = ["Oz","Kansas","Arendelle","Forest","Brooks","Castle","Mountain","New York","VIllage","Ocean"]
 undefined
-var FairyTaleAdjectiveAdverbArray = ["Magical","Happy","Warm","Tragic","Comedic","Fun","Extraordinary","Phenomenal","Magnificent","Unbelieveable"]
-
+var ftAdjectives = ["Magical","Happy","Warm","Tragic","Comedic","Fun","Extraoardinary","Phenomenal","Magnificent","Unbelieveable"]
 undefined
-var FairyTaleTimeOfDay = ["Dusk","Morning","Sunrise","Sunset","Evening","Dawn","Medieval","Gothic","Renaissance","Victorian"]
-
+var ftTimes = ["Dusk","Morning","Sunrise","Sunset","Evening","Dawn","Medieval","Gothic","Renaissance","Victorian"]
 undefined
-var FairyTaleLocationsArray = FairyTaleLocationsArray[Math.floor(Math.random() * 10)]
-var FairyTaleAdjectiveAdverbArray = FairyTaleAdjectiveAdverbArray[Math.floor(Math.random() * 10)]
-var FairyTaleTimeOfDay = FairyTaleTimeOfDay[Math.floor(Math.random() * 10)]
-
-var randomTitleGenerator = FairyTaleLocationsArray + FairyTaleAdjectiveAdverbArray + FairyTaleTimeOfDay + "!!!"
+var randomLocation = ftLocations[Math.floor(Math.random() * 10)]
 undefined
-randomTitleGenerator
-"CastleExtraordinarySunrise!!!"
+var randomAdjective = ftAdjectives[Math.floor(Math.random() * 10)]
+undefined
+var randomTime = ftTimes[Math.floor(Math.random() * 10)]
+undefined
+var randomFairyTaleTitleGenerator = randomLocation + " " + randomAdjective + " " + randomTime
+undefined
+randomFairyTaleTitleGenerator
+"Ocean Warm Sunrise"
