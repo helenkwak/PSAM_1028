@@ -2,7 +2,7 @@
 
 ```ruby
 
-var ftLocations = ["Oz","Kansas","Arendelle","Forest","Brooks","Castle","Mountain","New York","VIllage","Ocean"]
+var ftLocations = ["Oz","Kansas","Arendelle","Forest","Brooks","Castle","Mountain","New York","Village","Ocean"]
 undefined
 
 var ftAdjectives = ["Magical","Happy","Warm","Tragic","Comedic","Fun","Extraoardinary","Phenomenal","Magnificent","Unbelieveable"]
@@ -40,7 +40,7 @@ randomFairyTaleTitleGenerator
 
 <body> 
 <script type ="text/javascript">
-var ftLocations = ["Oz","Kansas","Arendelle","Forest","Brooks","Castle","Mountain","New York","VIllage","Ocean"]
+var ftLocations = ["Oz","Kansas","Arendelle","Forest","Brooks","Castle","Mountain","New York","Village","Ocean"]
 undefined
 var ftAdjectives = ["Magical","Happy","Warm","Tragic","Comedic","Fun","Extraoardinary","Phenomenal","Magnificent","Unbelieveable"]
 undefined
